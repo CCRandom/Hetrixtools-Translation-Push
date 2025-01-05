@@ -1,2 +1,2 @@
 # Notification-translation
-基于阿里云机器翻译及函数计算，自动翻译hetrixtools使用Webhook推送的通知
+基于阿里云机器翻译及函数计算，自动翻译hetrixtools的Webhook信息，并将翻译结果保存至github
