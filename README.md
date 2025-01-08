@@ -20,5 +20,4 @@
 阿里云机器翻译：https://help.salesmartly.com/docs/ru-he-huo-qu-a-li-fan-yi-AccessKey-ID-he-AccessKey-Secret
 wxpusher：https://wxpusher.zjiecode.com/docs/#/
 github获取令牌：https://blog.jankiny.ninja/Tech/%E8%8E%B7%E5%8F%96github%E4%B8%AA%E4%BA%BA%E8%AE%BF%E9%97%AE%E4%BB%A4%E7%89%8C%EF%BC%88github-token%EF%BC%89/
-GITHUB_REPO请填写您fork的仓库地址如CCRandom/Hetrixtools-Translation-Push
 ```
