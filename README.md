@@ -5,15 +5,14 @@
 ## 前置工作
 
 本代码需提前获取以下环境变量
-1.用于调用阿里云机器翻译
-ALIYUN_ACCESS_KEY_ID
-ALIYUN_ACCESS_KEY_SECRET
-2.用于调用wxpusher发送信息
-APP_TOKEN
-UID
-3.用于调用github存储翻译结果
-GITHUB_REPO
-GITHUB_TOKEN
+| 变量名                  | 示例                      | 备注                       |
+| ------------------------| ------------------------  | --------------------------- |
+| ALIYUN_ACCESS_KEY_ID    | 随机数字字母组合           | 用于调用阿里云机器翻译      |
+| ALIYUN_ACCESS_KEY_SECRET| 随机数字字母组合           | 用于调用阿里云机器翻译      |
+| APP_TOKEN               | AT_开头的随机数字字母组合  | 用于调用wxpusher发送信息    |
+| UID                     | UID_开头的随机数字字母组合 | 用于调用wxpusher发送信息    |
+| GITHUB_REPO             | xxx/xxx仓库地址            | 用于调用github存储翻译结果  |
+| GITHUB_TOKEN            | ghp_开头的随机数字字母组合 | 用于调用github存储翻译结果  |
 
 ## 获取方式
 
