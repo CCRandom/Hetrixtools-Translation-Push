@@ -1,4 +1,4 @@
-# 基于阿里云机器翻译及函数计算，自动翻译hetrixtools的Webhook信息，并将翻译结果保存至github,同时调用wxpusher发送信息
+# 基于阿里云机器翻译及函数计算，自动翻译hetrixtools的Webhook信息，并将翻译结果保存至github，同时调用wxpusher发送信息
 
 因hetrixtools无法设置中文名字,且阿里云对机器翻译及函数计算均有免费额度故编写以下代码
 
