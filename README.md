@@ -15,7 +15,8 @@ UID
 GITHUB_REPO
 GITHUB_TOKEN
 
-## 获取方式如下
+## 获取方式
+
 ```s
 阿里云机器翻译：https://help.salesmartly.com/docs/ru-he-huo-qu-a-li-fan-yi-AccessKey-ID-he-AccessKey-Secret
 wxpusher：https://wxpusher.zjiecode.com/docs/#/
